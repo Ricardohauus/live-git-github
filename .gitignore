@@ -1,0 +1,2 @@
+#Ignorar importação do yarn
+node_modules
